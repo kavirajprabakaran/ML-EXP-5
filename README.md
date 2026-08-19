@@ -59,8 +59,6 @@ else:
 ```
 
 ## Output:
-<img width="910" height="488" alt="Screenshot 2026-08-19 115127" src="https://github.com/user-attachments/assets/a499b4e7-9c4d-4773-87a6-3ffc0de1e000" />
-
 <img width="909" height="280" alt="image" src="https://github.com/user-attachments/assets/9b49efad-2c1a-449a-8f46-01959f0e6570" />
 
 
